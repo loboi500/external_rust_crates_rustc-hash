@@ -1,13 +1,3 @@
-[package]
-name = "rustc-hash"
-version = "1.1.0"
-authors = ["The Rust Project Developers"]
-description = "speed, non-cryptographic hash used in rustc"
-license = "Apache-2.0/MIT"
-readme = "README.md"
-keywords = ["hash", "fxhash", "rustc"]
-repository = "https://github.com/rust-lang-nursery/rustc-hash"
-
-[features]
-std = []
-default = ["std"]
+version https://git-lfs.github.com/spec/v1
+oid sha256:da35209ae338cf5c7d5303042f9d4eb8dffa0d8dc92d7817e9820a2b6d3b1380
+size 339
